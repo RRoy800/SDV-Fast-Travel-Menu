@@ -38,7 +38,7 @@ namespace StardewValleyMod
             {
                 this.Monitor.Log($"{Game1.player.Name} pressed {e.Button}.", LogLevel.Debug);
                 //this.Monitor.Log($"{Game1.locations.Count}", LogLevel.Debug);
-                    foreach (var location in Game1.player.locqationsVisited)
+                    foreach (var location in Game1.player.locationsVisited)
                     {
                         this.Monitor.Log(location, LogLevel.Debug);
                     }
