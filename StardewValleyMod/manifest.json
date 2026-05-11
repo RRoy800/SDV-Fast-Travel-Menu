@@ -1,0 +1,10 @@
+﻿{
+  "Name": "StardewValleyMod",
+  "Author": "RRoy",
+  "Version": "1.0.0",
+  "Description": "First Mod",
+  "UniqueID": "RRoy.StardewValleyMod",
+  "EntryDll": "StardewValleyMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rohan\\OneDrive\\Desktop\\Intermediate_Programming\\StardewValleyMod\\StardewValleyMod\\StardewValleyMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rohan\\OneDrive\\Desktop\\Intermediate_Programming\\StardewValleyMod\\StardewValleyMod\\StardewValleyMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rohan\\OneDrive\\Desktop\\Intermediate_Programming\\StardewValleyMod\\StardewValleyMod\\StardewValleyMod.csproj",
+        "projectName": "StardewValleyMod",
+        "projectPath": "C:\\Users\\rohan\\OneDrive\\Desktop\\Intermediate_Programming\\StardewValleyMod\\StardewValleyMod\\StardewValleyMod.csproj",
+        "packagesPath": "C:\\Users\\rohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rohan\\OneDrive\\Desktop\\Intermediate_Programming\\StardewValleyMod\\StardewValleyMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pathoschild.Stardew.ModBuildConfig": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\rohan\\.dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

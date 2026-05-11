@@ -1,0 +1,8 @@
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\bin\Debug\net6.0\StardewValleyMod.deps.json
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\bin\Debug\net6.0\StardewValleyMod.dll
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.csproj.AssemblyReference.cache
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.AssemblyInfoInputs.cache
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.AssemblyInfo.cs
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.csproj.CoreCompileInputs.cache
+C:\Users\rohan\OneDrive\Desktop\Intermediate_Programming\StardewValleyMod\StardewValleyMod\obj\Debug\net6.0\StardewValleyMod.dll
